@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deise.vania.santos\\OneDrive - Avanade\\Desktop\\Deise-2025\\Programac-Estudos\\CrudDapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10FA3633-A548-426C-A5F0-42BCF3DC51A4}|Solucao-CrudDapper\\Solucao-CrudDapper.csproj|c:\\users\\deise.vania.santos\\onedrive - avanade\\desktop\\deise-2025\\programac-estudos\\cruddapper\\solucao-cruddapper\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FA3633-A548-426C-A5F0-42BCF3DC51A4}|Solucao-CrudDapper\\Solucao-CrudDapper.csproj|solutionrelative:solucao-cruddapper\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FA3633-A548-426C-A5F0-42BCF3DC51A4}|Solucao-CrudDapper\\Solucao-CrudDapper.csproj|c:\\users\\deise.vania.santos\\onedrive - avanade\\desktop\\deise-2025\\programac-estudos\\cruddapper\\solucao-cruddapper\\services\\livroservice\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FA3633-A548-426C-A5F0-42BCF3DC51A4}|Solucao-CrudDapper\\Solucao-CrudDapper.csproj|solutionrelative:solucao-cruddapper\\services\\livroservice\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FA3633-A548-426C-A5F0-42BCF3DC51A4}|Solucao-CrudDapper\\Solucao-CrudDapper.csproj|c:\\users\\deise.vania.santos\\onedrive - avanade\\desktop\\deise-2025\\programac-estudos\\cruddapper\\solucao-cruddapper\\services\\livroservice\\ilivrointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FA3633-A548-426C-A5F0-42BCF3DC51A4}|Solucao-CrudDapper\\Solucao-CrudDapper.csproj|solutionrelative:solucao-cruddapper\\services\\livroservice\\ilivrointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\deise.vania.santos\\OneDrive - Avanade\\Desktop\\Deise-2025\\Programac-Estudos\\CrudDapper\\Solucao-CrudDapper\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "Solucao-CrudDapper\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\deise.vania.santos\\OneDrive - Avanade\\Desktop\\Deise-2025\\Programac-Estudos\\CrudDapper\\Solucao-CrudDapper\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "Solucao-CrudDapper\\Controllers\\LivroController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:42:58.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\Users\\deise.vania.santos\\OneDrive - Avanade\\Desktop\\Deise-2025\\Programac-Estudos\\CrudDapper\\Solucao-CrudDapper\\Services\\LivroService\\LivroService.cs",
+              "RelativeDocumentMoniker": "Solucao-CrudDapper\\Services\\LivroService\\LivroService.cs",
+              "ToolTip": "C:\\Users\\deise.vania.santos\\OneDrive - Avanade\\Desktop\\Deise-2025\\Programac-Estudos\\CrudDapper\\Solucao-CrudDapper\\Services\\LivroService\\LivroService.cs",
+              "RelativeToolTip": "Solucao-CrudDapper\\Services\\LivroService\\LivroService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:21:10.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILivroInterface.cs",
+              "DocumentMoniker": "C:\\Users\\deise.vania.santos\\OneDrive - Avanade\\Desktop\\Deise-2025\\Programac-Estudos\\CrudDapper\\Solucao-CrudDapper\\Services\\LivroService\\ILivroInterface.cs",
+              "RelativeDocumentMoniker": "Solucao-CrudDapper\\Services\\LivroService\\ILivroInterface.cs",
+              "ToolTip": "C:\\Users\\deise.vania.santos\\OneDrive - Avanade\\Desktop\\Deise-2025\\Programac-Estudos\\CrudDapper\\Solucao-CrudDapper\\Services\\LivroService\\ILivroInterface.cs",
+              "RelativeToolTip": "Solucao-CrudDapper\\Services\\LivroService\\ILivroInterface.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:02:04.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

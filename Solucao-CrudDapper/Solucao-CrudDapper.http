@@ -1,0 +1,6 @@
+@Solucao_CrudDapper_HostAddress = http://localhost:5272
+
+GET {{Solucao_CrudDapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
